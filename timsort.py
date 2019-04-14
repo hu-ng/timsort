@@ -1,7 +1,5 @@
 # Took inspiration from Tim Peter's original explanation,
 # https://github.com/python/cpython/blob/master/Objects/listsort.txt
-# and the PyPy's implementation:
-# https://bitbucket.org/pypy/pypy/src/default/rpython/rlib/listsort.py?fileviewer=file-view-default
 
 import random
 import bisect
